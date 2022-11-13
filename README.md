@@ -7,9 +7,9 @@
   <li>Download <a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/" target="_blank">Xampp versi 5.6 disini</a>, kemudian install sampai dengan selesai.</li>
   
   <li>Download <a href="https://dev.mysql.com/downloads/connector/odbc/" target="_blank">Connector/ODBC 8.0 disini</a>, lalu install sampai selesai</li>
-  <li>Download file <a href="https://drive.google.com/file/d/1qxTo2TYMQ5nyecRzg_pCuD7pTUUeIf3D/view?usp=sharing" target="_blank">db_utc.sql</a> disini lalu import ke MYSQL yang sudah di install tadi (point 2)</li>
+  <li>Download file <a href="https://drive.google.com/file/d/1qxTo2TYMQ5nyecRzg_pCuD7pTUUeIf3D/view?usp=sharing" target="_blank">db_utc.sql</a> disini lalu import ke MYSQL yang sudah di install tadi (point 3)</li>
    <li>pastikan PC/laptop sudah mengintall <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank">Net Framework 4.5</a></li>
-  <li>setelah langkah diatas sudah selesai, reboot PC/Laptop.</li>
+  <li>and done.</li>
   
 
 
