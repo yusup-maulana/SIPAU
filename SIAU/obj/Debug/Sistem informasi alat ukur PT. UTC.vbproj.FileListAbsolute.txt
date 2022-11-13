@@ -1,0 +1,69 @@
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe.config
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.pdb
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.xml
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\FlashControlV71.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\MySql.Data.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\bin\Debug\stdole.dll
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form1.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form2.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form3.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.formlistentry.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.lihatrekappinjaman.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Resources.resources
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbproj.GenerateResource.Cache
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.xml
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.pdb
+C:\Users\aGoes\documents\visual studio 2015\Projects\Sistem informasi alat ukur PT. UTC\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbprojResolveAssemblyReference.cache
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe.config
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.pdb
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\Sistem_informasi_alat_ukur_PT.UTC.xml
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form1.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form2.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Form3.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.formlistentry.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.lihatrekappinjaman.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.Resources.resources
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbproj.GenerateResource.cache
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbproj.CoreCompileInputs.cache
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbproj.CopyComplete
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.exe
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.xml
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem_informasi_alat_ukur_PT.UTC.pdb
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\obj\Debug\Sistem informasi alat ukur PT. UTC.vbproj.AssemblyReference.cache
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.Shared.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\SERVER\Sistem informasi alat ukur PT. UTC 2\Sistem informasi alat ukur PT. UTC\bin\Debug\stdole.dll
